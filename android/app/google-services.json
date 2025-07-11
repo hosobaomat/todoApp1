@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613389969917",
+    "project_id": "signin-b6cbe",
+    "storage_bucket": "signin-b6cbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613389969917:android:f90858338fec08a483d194",
+        "android_client_info": {
+          "package_name": "com.example.todoapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613389969917-ode7ijudj1rmv5v56hjbgblngb9ntvbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABAHLvjsNjY89jL4kYPZ3dox1TqIMYVPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613389969917-ode7ijudj1rmv5v56hjbgblngb9ntvbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
